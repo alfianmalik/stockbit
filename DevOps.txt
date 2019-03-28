@@ -1,0 +1,5 @@
+1. Di setting mana kita bisa maksimalin kemampuan satu Linux Server untuk bisa handle long-living connections yang tersambung secara bersamaan.
+
+2. Jelaskan scr singkat kenapa di AWS kita perlu Docker instead of cuman bikin AMI Image dr 1 server
+
+3. Untuk Security Server, kira2 langkah apa aja yg bisa dilakukan untuk menjamin keamanan satu server ?
